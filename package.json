@@ -1,12 +1,12 @@
 {
-  "name": "elmBoilerPlate",
+  "name": "elmBoilerplate",
   "description": "",
   "version": "0.1.0",
   "license": "MIT",
   "author": "Stephen James",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sjames1958gm/elmBoilerPlate"
+    "url": "https://github.com/sjames1958gm/elmBoilerplate"
   },
   "scripts": {
     "start": "webpack-dev-server --host 0.0.0.0 --hot --inline --content-base src/",
